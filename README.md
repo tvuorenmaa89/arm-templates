@@ -1,2 +1,2 @@
-# Blueprints as Code
+# ARM
 Personal ARM-templates
